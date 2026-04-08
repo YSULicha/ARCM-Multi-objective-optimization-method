@@ -1,3 +1,6 @@
+%% ARCM: Multi-Objective Optimization Method for Energy Systems
+%% DOI: 10.1109/TPWRS.2026.3682532
+
 %% 1. Setup & Parameters
 clc; 
 clear;
