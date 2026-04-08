@@ -19,5 +19,5 @@ This code has been tested with MATLAB version 2023b.
 If you use this code for your own work, please cite this paper:
 
 <ol>
-<li>  Yingzhao Tang, Shixing Ding, Zhigang Lu, Wei Gu, Chongqing Kang, Yijun Xu, and Ershun Du, "<b>Alternating Refined Constraint Method: A Multi-Objective Solution Approach for Energy System Optimization</b>," <i>IEEE Transactions on Power Systems</i>, Eaely EXCESS, 2026, DOI: 10.1109/TPWRS.2026.3682532.
+<li>  Yingzhao Tang, Shixing Ding, Zhigang Lu, Wei Gu, Chongqing Kang, Yijun Xu, and Ershun Du, "<b>Alternating Refined Constraint Method: A Multi-Objective Solution Approach for Energy System Optimization</b>," <i>IEEE Transactions on Power Systems</i>, <i>Eaely Eexess</i>, 2026, DOI: 10.1109/TPWRS.2026.3682532.
 </ol>
