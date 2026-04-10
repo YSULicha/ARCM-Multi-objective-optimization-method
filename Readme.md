@@ -21,3 +21,4 @@ If you use this code for your own work, please cite this paper:
 <ol>
 <li>  Yingzhao Tang, Shixing Ding, Zhigang Lu, Wei Gu, Chongqing Kang, Yijun Xu, and Ershun Du, "<b>Alternating Refined Constraint Method: A Multi-Objective Solution Approach for Energy System Optimization</b>," <i>IEEE Transactions on Power Systems</i>, <i>Early Eexess</i>, 2026, DOI: 10.1109/TPWRS.2026.3682532.
 </ol>
+<2i> https://doi.org/10.1109/TPWRS.2026.3682532
